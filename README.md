@@ -88,5 +88,3 @@ While linear and random forest models provide useful baselines, gradient boostin
 The optimized XGBoost model demonstrates strong performance on the held-out test dataset, maintaining high fraud recall while keeping false positives under control. The results validate the effectiveness of gradient boosting combined with threshold optimization for imbalanced fraud detection problems.
 
 ---
-
-## Repository Structure
